@@ -2,7 +2,7 @@
 
 # 17.02.2025.
 #
-# "supervise learning" - обучение с учителем.
+# "supervise learning" - обучение с учителеем.
 # есть data, ничего не размечаем, обучаемся по target.
 #
 # regression is a process for finding the relationship between the input data and output data.
@@ -21,3 +21,7 @@
 # e_n = y_n - g_θ(x_n), for n = 1, ... N.
 #
 # the purpose of regression is to find the best θ such that the error is minimized.
+
+# 21.02.2025.
+#
+# Настраивал GitHub.
